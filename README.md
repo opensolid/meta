@@ -1,2 +1,1 @@
-# meta
-Meta-repository for discussion about the OpenSolid ecosystem
+This repository exists to track/discuss high-level issues related to the OpenSolid ecosystem. If you have requests for useful packages to add, ideas for how to structure OpenSolid development/discussions, or other similar concerns, raise an issue in this repository and we can discuss!
